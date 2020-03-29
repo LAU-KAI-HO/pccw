@@ -1,1 +1,1 @@
-class dddddd
+class __init__:
